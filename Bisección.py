@@ -1,4 +1,5 @@
 #importando modulos
+%matplotlib inline
 import numpy as np
 import pandas as pd
 
