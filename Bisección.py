@@ -1,3 +1,8 @@
+#importando modulos
+import numpy as np
+import pandas as pd
+
+#implementando método de la bisección
 def MetodoBiseccion(a, b, Tol,g):
     salida = True  
     FA = g(a)
